@@ -40,16 +40,16 @@ insta = Config.L
 buttons=InlineKeyboardMarkup(
     [
         [
-            InlineKeyboardButton("👨🏼‍💻Developer", url='https://t.me/subinps'),
-            InlineKeyboardButton("👨🏼‍💻Developer", url="https://t.me/Anshu88o")
+            InlineKeyboardButton("👨🏼‍💻Developer", url='https://t.me/Anshu888o'),
+            InlineKeyboardButton("👨🏼‍💻Developer", url="https://t.me/Anshu888o")
         ],
         [
-            InlineKeyboardButton("👨🏼‍💻Developer", url="https://t.me/Anshu88o"),
-            InlineKeyboardButton("👨🏼‍💻Developer", url="https://t.me/Anshu88o")
+            InlineKeyboardButton("👨🏼‍💻Developer", url="https://t.me/Anshu888o"),
+            InlineKeyboardButton("👨🏼‍💻Developer", url="https://t.me/Anshu888o")
         ],
         [
             InlineKeyboardButton("👨🏼‍🦯How To Use?", callback_data="help#subin"),
-            InlineKeyboardButton("👨🏼‍💻Developer", url="https://t.me/Anshu88o")
+            InlineKeyboardButton("👨🏼‍💻Developer", url="https://t.me/Anshu888o")
         ]
 					
     ]
