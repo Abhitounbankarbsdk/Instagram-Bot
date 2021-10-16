@@ -135,7 +135,7 @@ async def _insta_post_batch(bot, message):
 					],
                     [
                         InlineKeyboardButton("👨🏼‍💻Developer", url="https://github.com/subinps/Instagram-Bot"),
-						InlineKeyboardButton(👨🏼‍💻Developer", url="https://t.me/Anshu88o")
+						InlineKeyboardButton("👨🏼‍💻Developer", url="https://t.me/Anshu88o")
                     ],
                     [
                         InlineKeyboardButton("👨🏼‍🦯How To Use?", callback_data="help#subin"),
