@@ -43,16 +43,16 @@ async def start(bot, cmd):
 			reply_markup=InlineKeyboardMarkup(
 				[
 					[
-						InlineKeyboardButton("👨🏼‍💻Developer", url='https://t.me/Anshu88o'),
-						InlineKeyboardButton("👨🏼‍💻Developer", url="https://t.me/Anshu88o")
+						InlineKeyboardButton("👨🏼‍💻Developer", url='https://t.me/Anshu888o'),
+						InlineKeyboardButton("👨🏼‍💻Developer", url="https://t.me/Anshu888o")
 					],
                     [
-                        InlineKeyboardButton("🔗Source Code", url="https://t.me/Anshu88o"),
-						InlineKeyboardButton("👨🏼‍💻Developer", url="https://t.me/Anshu88o")
+                        InlineKeyboardButton("👨🏼‍💻Developer", url="https://t.me/Anshu888o"),
+						InlineKeyboardButton("👨🏼‍💻Developer", url="https://t.me/Anshu888o")
                     ],
                     [
                         InlineKeyboardButton("👨🏼‍🦯How To Use?", callback_data="help#subin"),
-						InlineKeyboardButton("👨🏼‍💻Developer", url="https://t.me/Anshu88o")
+						InlineKeyboardButton("👨🏼‍💻Developer", url="https://t.me/Anshu888o")
 
                     ]
 					
@@ -66,15 +66,15 @@ async def start(bot, cmd):
 			reply_markup=InlineKeyboardMarkup(
 				[
 					[
-						InlineKeyboardButton("👨🏼‍💻Developer", url='https://t.me/Anshu88o'),
-						InlineKeyboardButton("👨🏼‍💻Developer", url="https://t.me/Anshu88o"),
+						InlineKeyboardButton("👨🏼‍💻Developer", url='https://t.me/Anshu888o'),
+						InlineKeyboardButton("👨🏼‍💻Developer", url="https://t.me/Anshu888o"),
 					],
                     [
-                        InlineKeyboardButton("🔗Source Code", url="https://t.me/Anshu88o")
+                        InlineKeyboardButton("👨🏼‍💻Developer", url="https://t.me/Anshu888o")
                     ],
                     [
                         InlineKeyboardButton("👨🏼‍🦯How To Use?", callback_data="help#subin"),
-						InlineKeyboardButton("👨🏼‍💻Developer", url="https://t.me/Anshu88o")
+						InlineKeyboardButton("👨🏼‍💻Developer", url="https://t.me/Anshu888o")
 
                     ]
 					
@@ -91,14 +91,14 @@ async def help(bot, cmd):
 		reply_markup=InlineKeyboardMarkup(
 			[
 				[
-					InlineKeyboardButton("👨🏼‍💻Developer", url='https://t.me/Anshu88o'),
-					InlineKeyboardButton("👨🏼‍💻Developer", url="https://t.me/Anshu88o"),
-					InlineKeyboardButton("👨🏼‍💻Developer", url="https://t.me/Anshu88o")
+					InlineKeyboardButton("👨🏼‍💻Developer", url='https://t.me/Anshu888o'),
+					InlineKeyboardButton("👨🏼‍💻Developer", url="https://t.me/Anshu888o"),
+					InlineKeyboardButton("👨🏼‍💻Developer", url="https://t.me/Anshu888o")
 					
 				],
 				[
-					InlineKeyboardButton("👨🏼‍💻Developer", url="https://t.me/Anshu88o"),
-					InlineKeyboardButton("👨🏼‍💻Developer", url="https://t.me/Anshu88o")
+					InlineKeyboardButton("👨🏼‍💻Developer", url="https://t.me/Anshu888o"),
+					InlineKeyboardButton("👨🏼‍💻Developer", url="https://t.me/Anshu888o")
 				]
 			]
 			)
@@ -113,16 +113,16 @@ async def stop(bot, cmd):
 			reply_markup=InlineKeyboardMarkup(
 				[
 					[
-						InlineKeyboardButton("👨🏼‍💻Developer", url='https://t.me/Anshu88o'),
-						InlineKeyboardButton("👨🏼‍💻Developer", url="https://t.me/Anshu88o")	
+						InlineKeyboardButton("👨🏼‍💻Developer", url='https://t.me/Anshu888o'),
+						InlineKeyboardButton("👨🏼‍💻Developer", url="https://t.me/Anshu888o")	
 					],
                     [
-                        InlineKeyboardButton("🔗Source Code", url="https://t.me/Anshu88o"),
-						InlineKeyboardButton("👨🏼‍💻Developer", url="https://t.me/Anshu88o")
+                        InlineKeyboardButton("👨🏼‍💻Developer", url="https://t.me/Anshu888o"),
+						InlineKeyboardButton("👨🏼‍💻Developer", url="https://t.me/Anshu888o")
                     ],
                     [
                         InlineKeyboardButton("👨🏼‍🦯How To Use?", callback_data="help#subin"),
-						InlineKeyboardButton("👨🏼‍💻Developer", url="https://t.me/Anshu88o")
+						InlineKeyboardButton("👨🏼‍💻Developer", url="https://t.me/Anshu888o")
 
                     ]
 					
