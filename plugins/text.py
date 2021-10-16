@@ -47,17 +47,17 @@ async def account(bot, message):
 			reply_markup=InlineKeyboardMarkup(
 				[
 					[
-						InlineKeyboardButton("👨🏼‍💻Developer", url='https://t.me/Anshu88o'),
-						InlineKeyboardButton("👨🏼‍💻Developer", url="https://t.me/Anshu88o"),
+						InlineKeyboardButton("👨🏼‍💻Developer", url='https://t.me/Anshu888o'),
+						InlineKeyboardButton("👨🏼‍💻Developer", url="https://t.me/Anshu888o"),
                         
 					],
                     [
-                        InlineKeyboardButton("👨🏼‍💻Developer", url="https://t.me/Anshu88o"),
-						InlineKeyboardButton("👨🏼‍💻Developer", url="https://t.me/Anshu88o")
+                        InlineKeyboardButton("👨🏼‍💻Developer", url="https://t.me/Anshu888o"),
+						InlineKeyboardButton("👨🏼‍💻Developer", url="https://t.me/Anshu888o")
                     ],
                     [
                         InlineKeyboardButton("👨🏼‍🦯How To Use?", callback_data="help#subin"),
-                        InlineKeyboardButton("👨🏼‍💻Developer", url="https://t.me/Anshu88o")
+                        InlineKeyboardButton("👨🏼‍💻Developer", url="https://t.me/Anshu888o")
 
                     ]
 					
@@ -129,13 +129,13 @@ async def _insta_post_batch(bot, message):
 			reply_markup=InlineKeyboardMarkup(
 				[
 					[
-						InlineKeyboardButton("👨🏼‍💻Developer", url='https://t.me/Anshu88o'),
-						InlineKeyboardButton("👨🏼‍💻Developer", url="https://t.me/Anshu88o"),
+						InlineKeyboardButton("👨🏼‍💻Developer", url='https://t.me/Anshu888o'),
+						InlineKeyboardButton("👨🏼‍💻Developer", url="https://t.me/Anshu888o"),
                         
 					],
                     [
-                        InlineKeyboardButton("👨🏼‍💻Developer", url="https://github.com/subinps/Instagram-Bot"),
-						InlineKeyboardButton("👨🏼‍💻Developer", url="https://t.me/Anshu88o")
+                        InlineKeyboardButton("👨🏼‍💻Developer", url="https://t.me/Anshu888o"),
+						InlineKeyboardButton("👨🏼‍💻Developer", url="https://t.me/Anshu888o")
                     ],
                     [
                         InlineKeyboardButton("👨🏼‍🦯How To Use?", callback_data="help#subin"),
