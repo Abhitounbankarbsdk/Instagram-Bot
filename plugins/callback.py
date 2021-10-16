@@ -53,13 +53,13 @@ async def cb_handler(bot: Client, query: CallbackQuery):
             reply_markup=InlineKeyboardMarkup(
 			[
 				[
-					InlineKeyboardButton("👨🏼‍💻Developer", url='https://t.me/Anshu88o'),
-					InlineKeyboardButton("👨🏼‍💻Developer", url="https://t.me/Anshu88o"),
-                    InlineKeyboardButton("👨🏼‍💻Developer", url="https://t.me/Anshu88o")
+					InlineKeyboardButton("👨🏼‍💻Developer", url='https://t.me/Anshu888o'),
+					InlineKeyboardButton("👨🏼‍💻Developer", url="https://t.me/Anshu888o"),
+                    InlineKeyboardButton("👨🏼‍💻Developer", url="https://t.me/Anshu888o")
 				],
 				[
-					InlineKeyboardButton("👨🏼‍💻Developer", url="https://t.me/Anshu88o"),
-					InlineKeyboardButton("👨🏼‍💻Developer", url="https://t.me/Anshu88o")
+					InlineKeyboardButton("👨🏼‍💻Developer", url="https://t.me/Anshu888o"),
+					InlineKeyboardButton("👨🏼‍💻Developer", url="https://t.me/Anshu888o")
 				]
 			]
 			)
